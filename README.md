@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard analyzing Adidas retail sales performance across the US, built to practice data modeling, DAX, and business dashboard design.
 
-![Dashboard Preview](Adidas Dahboard.png)
+![Dashboard Preview](<img width="1367" height="752" alt="Adidas Dahboard" src="https://github.com/user-attachments/assets/b8b150d7-bb31-4aac-81ed-e06ee9a1fbfc" />
+
 
 ## Overview
 
@@ -39,10 +40,5 @@ This project analyzes Adidas sales data from **January 2020 to December 2021**, 
 - **West Gear** and **Foot Locker** were the leading retail partners by revenue
 - **Men's Street Footwear** was the best-selling product category
 
-## Files in This Repository
 
-- `Adidas_Sales_Analysis.pbix` — the Power BI project file (open with Power BI Desktop)
-- `dashboard-screenshot.png` — static preview image of the dashboard
 
----
-*This is a self-directed learning project using a publicly available practice dataset, built to strengthen skills in Power BI, data modeling, and business dashboard design.*
