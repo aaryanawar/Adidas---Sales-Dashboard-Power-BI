@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing Adidas retail sales performance across the US, built to practice data modeling, DAX, and business dashboard design.
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](Adidas Dahboard.png)
 
 ## Overview
 
